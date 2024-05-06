@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shubham Gupta</h1>
-<h3 align="center">A passionate Backend developer</h3>
+<h1 align="center">Hi 👋, I'm SHUBHAM GUPTA</h1>
+<h3 align="center">A passionate Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamgupta2730&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamgupta2730" /> </p>
 
@@ -10,8 +10,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/shubhamgupta2730/shubhamgupta2730](https://github.com/shubhamgupta2730/shubhamgupta2730)
 
 - 💬 Ask me about **Backend Development**
-
-- 📫 How to reach me **shubhamgupta2730@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RyN_qfCxq2amRlPJsgwp4vi2F-5iNnBd/view?usp=sharing](https://drive.google.com/file/d/1RyN_qfCxq2amRlPJsgwp4vi2F-5iNnBd/view?usp=sharing)
 
